@@ -55,6 +55,7 @@ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.0/install.sh | bash
   - [Color Highlight](https://github.com/Kronuz/ColorHighlight)
   - [Color Convert](https://github.com/zhouyuexie/ColorConvert)
 - Copy personal preferences file ([Preferences.sublime-settings](/Preferences.sublime-settings))
+- Set symlink for node when using nvm `sudo ln -s $(which node) /usr/local/bin`
 
 ## SSH key generation
 - Remove existing remote and add SSH address instead (if needed)
